@@ -18,7 +18,6 @@ public class Main {
 
 
 
-
     private static String inputString(String s) {
         Scanner scanner = new Scanner(System.in);
         System.out.print(s);
